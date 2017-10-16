@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Soccer Score</string>
+    <string name="team_a_name">TEAM A</string>
+    <string name="goalForTeamA">0</string>
+    <string name="goalText">Goal !</string>
+    <string name="displayZero">0</string>
+    <string name="displayYellowCard">YELLOW CARD</string>
+    <string name="displayRedCard">RED CARD</string>
+    <string name="displaySubs">SUBS</string>
+    <string name="displayTeamB">TEAM B</string>
+    <string name="displayReset">RESET ALL</string>
+</resources>
